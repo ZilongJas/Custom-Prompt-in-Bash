@@ -30,7 +30,7 @@ Any text editor to modify configuration files if needed.
 ## Setup
 1. **Backup Existing Configuration:** ```cp ~/.bashrc ~/.bashrc.backup```
 
-2. **Download the prompt to your local machine:** ```git clone https://github.com/ZilongJas/custom_bash_prompt.git```
+2. **Download the prompt to your local machine:** ```git clone https://github.com/ZilongJas/Custom-Prompt-in-Bash.git```
 
 3. **Apply the Custom Prompt:** ```source ~/custom_bash_prompt/custom_prompt.sh >> ~/.bashrc```
 (Make sure it is under the same path as you cloned it in)
