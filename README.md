@@ -3,6 +3,9 @@
 ## Overview
 This project customizes your Bash prompt to display time in AM/PM format and removes long prompts that you may have, with a clean design.
 
+### BEFORE: ![before](/images/before.png) 
+### AFTER: ![before](/images/prompt.gif) 
+
 ## List of Requirements
 1. **Operating System:**
 A Unix-like operating system such as:
