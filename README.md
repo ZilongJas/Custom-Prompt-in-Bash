@@ -26,6 +26,8 @@ Any text editor to modify configuration files if needed.
 	- Nano (Recommended)
 	- Check if you have nano installed: ```nano --version```
 	- if not installed: ```sudo apt install nano```
+	- use nano to customize your welcome message (see comments inside "custom_prompt.sh")
+	- ```nano ~/Custom-Prompt-in-Bash/custom_prompt.sh```
 
 ## Setup
 1. **Backup Existing Configuration:** ```cp ~/.bashrc ~/.bashrc.backup```
