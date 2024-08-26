@@ -32,7 +32,7 @@ Any text editor to modify configuration files if needed.
 
 2. **Download the prompt to your local machine:** ```git clone https://github.com/ZilongJas/Custom-Prompt-in-Bash.git```
 
-3. **Apply the Custom Prompt:** ```source ~/Custom-Prompt-in-Bash/custom_prompt.sh >> ~/.bashrc```
+3. **Apply the Custom Prompt:** ```echo "source ~/Custom-Prompt-in-Bash/custom_prompt.sh" >> ~/.bashrc```
 (Make sure it is under the same path as you cloned it in)
 
 4. **Apply the changes immediately:** ```source ~/.bashrc``` (or close your terminal and start a new one)
